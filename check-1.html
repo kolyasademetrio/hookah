@@ -1,0 +1,399 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta name="format-detection" content="telephone=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no, maximum-scale=1">
+    <title>Чеки 1</title>
+    <meta name='description' content=""/>
+    <meta name="keywords" content=""/>
+    <link rel="icon" type="image/x-icon" href="favicon.ico"/>
+    <link rel="stylesheet" type="text/css" href="css/style.css"/>
+    <link rel="stylesheet" type="text/css" href="css/main.css"/>
+</head>
+<body class="loaded">
+
+
+<!-- BEGIN BODY -->
+
+<div class="main-wrapper">
+
+    <!-- BEGIN CONTENT -->
+
+    <main class="content">
+        <div class="header__dnk">
+            <a href="#" class="humburger__dnk">
+                <span></span>
+                <span></span>
+                <span></span>
+            </a>
+
+            <div class="headerContent__dnk">
+                <div class="balance__dnk">
+                    <div class="balanceIcon__dnk headerIcon__dnk small currency_icon"></div>
+                    <div class="balanceTextWrap__dnk">
+                        <div class="balanceText__dnk">Баланс</div>
+                        <div class="balanceSumm__dnk">981 грн.</div>
+                    </div>
+                </div>
+
+                <div class="showManualWrap__dnk">
+                    <a href="#" class="showManual__dnk headerIcon__dnk showManual_icon"></a>
+                </div>
+
+                <div class="showNoticeWrap__dnk">
+                    <a href="#" class="showNotice__dnk headerIcon__dnk showNotice_icon active">
+                        <span class="mark"></span>
+                    </a>
+                </div>
+
+                <div class="personal__dnk">
+                    <!--<span class="personalIcon__dnk"></span>-->
+                    <div class="personalTextWrap__dnk">
+                        <div class="personalUser__dnk">Максим В.</div>
+                        <div class="personalRole__dnk">Кальянщик</div>
+                    </div>
+                    <div class="personalBird__dnk"></div>
+                </div>
+            </div>
+        </div>
+
+        <div class="headerPanel__dnk">
+            <div class="btnSelectWrap__dnk">
+                <div class="btnSelect btnSelect__dnk">
+                    <a class="dropdown-button btnSelectDropdownBtn__dnk" data-activates="ordersSelect">
+                        <span class="btnSelectTypeWrap__dnk">
+                            <span class="btnSelectType__dnk">Отложенные чеки</span>
+                            <span class="btnSelectSumm__dnk">Сумма: 798₴</span>
+                        </span>
+                        <span class="btnSelectIcon__dnk"></span>
+                    </a>
+                    <ul id="ordersSelect" class="dropdown-content" style="display: none">
+                        <li>
+                            <a data-status="open" href="/company/invoices?status=0">Открытые чеки</a>
+                        </li>
+                        <li>
+                            <a data-status="close" href="/company/invoices?status=1">Закрытые чеки</a>
+                            <div class="dropdown__summ">Сумма: 432₴</div>
+                        </li>
+                        <li>
+                            <a data-status="postponed" href="/company/invoices?status=2" active="">Отложенные чеки</a>
+                            <div class="dropdown__summ">Сумма: 432₴</div>
+                        </li>
+                    </ul>
+
+                </div>
+            </div>
+
+            <ul class="roomsList__dnk">
+                <li class="roomsListItem__dnk active">
+                    <a href="#" class="roomsListItemLink">Основной</a>
+                </li>
+                <li class="roomsListItem__dnk">
+                    <a href="#" class="roomsListItemLink">Второй этаж</a>
+                </li>
+                <li class="roomsListItem__dnk has__item">
+                    <a href="#" class="roomsListItemLink">Веранда</a>
+                    <div class="roomsListItemQty__dnk">8</div>
+                </li>
+            </ul>
+        </div>
+
+        <div class="roomsPage__dnk">
+            <div class="roomsPageBoxLeft__dnk">
+                <div class="tableLeft__dnk red">
+                    <div class="tableNumber__dnk">7</div>
+                    <div class="tableText__dnk">
+                        <div class="tableQtyCheck__dnk">1 чек</div>
+                        <div class="tableQtyCheck__dnk">₴ 798</div>
+                    </div>
+                </div>
+                <div class="tableLeft__dnk blue">
+                    <div class="tableNumber__dnk">8</div>
+                    <div class="tableText__dnk">
+                        <div class="tableTime__dnk">01:29</div>
+                        <div class="tableQtyCheck__dnk">₴ 798</div>
+                    </div>
+                </div>
+                <div class="tableLeft__dnk green">
+                    <div class="tableNumber__dnk">6</div>
+                </div>
+                <div class="tableLeft__dnk small">
+                    <div class="tableNumber__dnk">5</div>
+                </div>
+                <div class="tableLeft__dnk small light">
+                    <div class="tableNumber__dnk">10</div>
+                    <div class="tableText__dnk">
+                        <div class="tableTime__dnk">01:29</div>
+                        <div class="tableQtyCheck__dnk">₴ 798</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="roomsPageBoxRight__dnk">
+                <div class="tableLeft__dnk big red">
+                    <div class="tableNumber__dnk">7</div>
+                    <div class="tableText__dnk">
+                        <div class="tableQtyCheck__dnk">1 чек</div>
+                        <div class="tableQtyCheck__dnk">₴ 798</div>
+                    </div>
+                </div>
+                <div class="tableLeft__dnk big blue">
+                    <div class="tableNumber__dnk">8</div>
+                    <div class="tableText__dnk">
+                        <div class="tableTime__dnk">01:29</div>
+                        <div class="tableQtyCheck__dnk">₴ 798</div>
+                    </div>
+                </div>
+                <div class="tableLeft__dnk big green">
+                    <div class="tableNumber__dnk">6</div>
+                </div>
+                <div class="tableLeft__dnk big green">
+                    <div class="tableNumber__dnk">5</div>
+                </div>
+                <div class="tableLeft__dnk big green">
+                    <div class="tableNumber__dnk">10</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="checkModal__dnk">
+            <div class="checkModalClose__dnk">
+                <div class="checkModalCloseIcon__dnk"></div>
+                <div class="checkModalCloseText__dnk">Назад</div>
+            </div>
+            <div class="checkModalInner__dnk">
+                <div class="checkModalContent__dnk">
+                    <div class="checkModalContentHeader__dnk">
+                        <div class="checkModalContentHeaderCheckInfo__dnk">
+                            <div class="checkModalContentHeaderCheckNumber__dnk">Чек <span class="check_blue">№728</span></div>
+                            <div class="checkModalContentHeaderCheckDateTime__dnk">
+                                <div class="checkModalContentHeaderCheckDateTimeIcon__dnk"></div>
+                                <div class="checkModalContentHeaderCheckDateTimeText__dnk">20/02 - 18:30</div>
+                            </div>
+                        </div>
+
+                        <div class="checkModalContentHeaderCreateOrderBox__dnk">
+                            <div class="checkModalContentHeaderCreateOrderItem__dnk">
+                                <div class="checkModalContentHeaderCreateOrderItemIcon__dnk kitchen"></div>
+                                <div class="checkModalContentHeaderCreateOrderItemText__dnk">Бар/Кухня</div>
+                            </div>
+                            <div class="checkModalContentHeaderCreateOrderItem__dnk">
+                                <div class="checkModalContentHeaderCreateOrderItemIcon__dnk hookah"></div>
+                                <div class="checkModalContentHeaderCreateOrderItemText__dnk">Кальян</div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="checkModalContentContent__dnk">
+                        <div class="checkModalOrderWrapper__dnk">
+                            <div class="checkModalOrderGroup__dnk">
+                                <div class="checkModalOrderGroupTitle__dnk">Кальяны</div>
+                                <div class="checkModalOrderList__dnk">
+
+                                    <div class="checkModalOrder__dnk">
+                                        <div class="checkModalOrderTime__dnk">18:42</div>
+                                        <div class="checkModalOrderInfo__dnk">Medium</div>
+                                        <div class="checkModalOrderView__dnk">
+                                            <div class="checkModalOrderViewContent__dnk">
+                                                <div class="view_icon"></div>
+                                            </div>
+                                        </div>
+                                        <div class="checkModalOrderSumm__dnk">
+                                            <div class="checkModalOrderSummText__dnk">
+                                                <span class="check_blue">250₴</span>
+                                            </div>
+                                        </div>
+                                        <div class="checkModalOrderStatus__dnk status_toexecute">
+                                            <div class="checkModalOrderStatusText__dnk">Вынести</div>
+                                        </div>
+                                        <div class="checkModalOrderAdditional__dnk menu">
+                                            <div class="checkModalOrderAdditionalIcon__dnk"></div>
+                                        </div>
+                                    </div>
+
+                                    <div class="checkModalOrder__dnk">
+                                        <div class="checkModalOrderTime__dnk">18:42</div>
+                                        <div class="checkModalOrderInfo__dnk">Medium</div>
+                                        <div class="checkModalOrderView__dnk">
+                                            <div class="checkModalOrderViewContent__dnk">
+                                                <div class="view_icon"></div>
+                                            </div>
+                                        </div>
+                                        <div class="checkModalOrderSumm__dnk">
+                                            <div class="checkModalOrderSummText__dnk">
+                                                <span class="check_blue">250₴</span>
+                                            </div>
+                                        </div>
+                                        <div class="checkModalOrderStatus__dnk status_toclose">
+                                            <div class="checkModalOrderStatusText__dnk">Завершить</div>
+                                            <div class="checkModalOrderStatusTimer__dnk">00:45</div>
+                                        </div>
+                                        <div class="checkModalOrderAdditional__dnk menu">
+                                            <div class="checkModalOrderAdditionalIcon__dnk"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="checkModalOrderGroup__dnk">
+                                <div class="checkModalOrderGroupTitle__dnk">Бар/Кухня</div>
+                                <div class="checkModalOrderList__dnk">
+
+                                    <div class="checkModalOrder__dnk">
+                                        <div class="checkModalOrderTime__dnk">18:42</div>
+                                        <div class="checkModalOrderInfo__dnk">Grey Goose<br> 50г</div>
+                                        <div class="checkModalOrderView__dnk">
+                                            <div class="checkModalOrderViewContent__dnk">1</div>
+                                            <div class="checkModalOrderViewPlus__dnk"></div>
+                                        </div>
+                                        <div class="checkModalOrderSumm__dnk has_offer">
+                                            <div class="checkModalOrderSummText__dnk">
+                                                <span class="check_blue">250₴</span>
+                                            </div>
+                                            <div class="checkModalOrderSummOffer__dnk">-10%</div>
+                                        </div>
+                                        <div class="checkModalOrderStatus__dnk status_toexecute">
+                                            <div class="checkModalOrderStatusText__dnk">Выполнить</div>
+                                        </div>
+                                        <div class="checkModalOrderAdditional__dnk menu">
+                                            <div class="checkModalOrderAdditionalIcon__dnk"></div>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="checkModalContentFooter__dnk">
+                        <div class="checkModalFooterClose__dnk"></div>
+
+                        <div class="checkModalFooterPrice__dnk">
+                            <div class="checkModalFooterPriceLeft__dnk">
+                                <table>
+                                    <tr>
+                                        <td>Сумма чека:</td>
+                                        <td>₴<span class="summ">630</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Скидка гостя:</td>
+                                        <td>₴<span class="summ">63</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Обслуживание:</td>
+                                        <td>₴<span class="summ">63</span></td>
+                                    </tr>
+                                </table>
+                            </div>
+                            <div class="checkModalFooterPriceRight__dnk">
+                                <div class="checkModalFooterPriceRightInner__dnk">
+                                    <div class="text">к оплате:</div>
+                                    <div class="summ">₴630</div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="checkModalFooterBtnsRight__dnk">
+                            <div class="checkModalFooterPrint__dnk">
+                                <div class="checkModalFooterPrintIcon__dnk"></div>
+                                <div class="checkModalFooterPrintText__dnk">Печатать</div>
+                            </div>
+
+                            <div class="checkModalFooterPay__dnk">
+                                <div class="checkModalFooterPayIcon__dnk"></div>
+                                <div class="checkModalFooterPayText__dnk">Оплатить</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="checkModalSidebar__dnk">
+                    <div class="checkModalSidebarHeader__dnk">
+                        <div class="checkModalSidebarHeaderInner__dnk">
+                            <div class="checkModalTable__dnk">
+                                <div class="checkModalTableNumber__dnk">10</div>
+                                <div class="checkModalTableNumberText__dnk">Стол <span class="check_blue">10</span></div>
+                            </div>
+
+                            <div class="checkModalState__dnk">
+                                <div class="checkModalStateIcon__dnk locked">&nbsp;</div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="checkModalSidebarContent__dnk">
+                        <div class="checkModalCheck__dnk opened">
+                            <div class="checkModalCheckTime__dnk">
+                                <div class="checkModalCheckTimeIcon__dnk"></div>
+                                <div class="checkModalCheckTimeCont__dnk">00:00</div>
+                            </div>
+                            <div class="checkModalCheckSumm__dnk">
+                                <div class="checkModalCheckSummIcon__dnk"></div>
+                                <div class="checkModalCheckSummCont__dnk">250</div>
+                            </div>
+                            <div class="checkModalCheckName__dnk">
+                                <div class="checkModalCheckNameIcon__dnk"></div>
+                                <div class="checkModalCheckNameCont__dnk">Выберите<br> гостя</div>
+                            </div>
+                        </div>
+
+                        <div class="checkModalCheck__dnk">
+                            <div class="checkModalCheckTime__dnk">
+                                <div class="checkModalCheckTimeIcon__dnk"></div>
+                                <div class="checkModalCheckTimeCont__dnk">00:00</div>
+                            </div>
+                            <div class="checkModalCheckSumm__dnk">
+                                <div class="checkModalCheckSummIcon__dnk"></div>
+                                <div class="checkModalCheckSummCont__dnk">250</div>
+                            </div>
+                            <div class="checkModalCheckName__dnk">
+                                <div class="checkModalCheckNameIcon__dnk"></div>
+                                <div class="checkModalCheckNameCont__dnk">Гость</div>
+                            </div>
+                        </div>
+
+                        <div class="checkModalCheck__dnk">
+                            <div class="checkModalCheckTime__dnk">
+                                <div class="checkModalCheckTimeIcon__dnk"></div>
+                                <div class="checkModalCheckTimeCont__dnk">00:00</div>
+                            </div>
+                            <div class="checkModalCheckSumm__dnk">
+                                <div class="checkModalCheckSummIcon__dnk"></div>
+                                <div class="checkModalCheckSummCont__dnk">250</div>
+                            </div>
+                            <div class="checkModalCheckName__dnk">
+                                <div class="checkModalCheckNameIcon__dnk"></div>
+                                <div class="checkModalCheckNameCont__dnk">Гость</div>
+                            </div>
+                        </div>
+
+                        <div class="checkModalDrugndropBox__dnk">
+                            <div class="checkModalDrugndropIcon__dnk"></div>
+                            <div class="checkModalDrugndropText__dnk">Новый чек</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+    </main>
+
+
+</div>
+
+<div class="icon-load"></div>
+
+<!-- BODY EOF   -->
+
+<script src="js/jquery-3.0.0.min.js"></script>
+<script src="js/jquery-migrate-1.4.1.min.js"></script>
+<!--
+<script src="js/components/jquery.fancybox.js" ></script>
+<script src="js/components/jquery.formstyler.js" ></script>
+<script src="js/components/slick.js" ></script>
+<script src="js/components/jquery.mCustomScrollbar.js" ></script>
+-->
+<script src="js/custom.js"></script>
+</body>
+</html>
