@@ -2,38 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28ca66b4-0375-4911-a1bc-a50f9f480ffb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/apple-big-grey.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/apple-big-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/calendar-20-22l-grey.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/check-blue-white-checked.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/check-blue-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/check-small-white-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/component-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/component-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/component-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/component-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/component-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/component-6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/component-7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/currency-grn-grey.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/glass-big-grey.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/glass-big-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sliders-filter-grey.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sliders-filter-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/user-small-grey.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/x-circle-dark-grey.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/x-circle-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-division-1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-division-2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guest-selection-1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index-select-1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index-select-2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index-select-3.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index-select-4.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index-select-5.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index-select-6.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/guest-selection-1.html" afterPath="$PROJECT_DIR$/guest-selection-2.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -45,11 +16,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="guest-selection-1.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/guest-selection-1.html">
+      <file leaf-file-name="map-designer.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/map-designer.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="183" column="94" lean-forward="true" selection-start-line="183" selection-start-column="44" selection-end-line="183" selection-end-column="98" />
+            <state relative-caret-position="537">
+              <caret line="123" column="67" lean-forward="false" selection-start-line="123" selection-start-column="67" selection-end-line="123" selection-end-column="67" />
               <folding />
             </state>
           </provider>
@@ -58,8 +29,8 @@
       <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="673">
-              <caret line="2926" column="27" lean-forward="false" selection-start-line="2926" selection-start-column="27" selection-end-line="2926" selection-end-column="27" />
+            <state relative-caret-position="459">
+              <caret line="4125" column="29" lean-forward="false" selection-start-line="4125" selection-start-column="29" selection-end-line="4125" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -69,21 +40,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>checkModalOrder</find>
-      <find>checkModalOrderGroup__dnk</find>
-      <find>checkModalContentHeaderCreateOrderItem__dnk</find>
-      <find>checkModalFooterSimpleBtn__dnk blue_dnk</find>
-      <find>nav-wrapper</find>
-      <find>checkModalFooterPay</find>
-      <find>nav-btn</find>
-      <find>btns-wrap</find>
-      <find>btn-bowl</find>
-      <find>btn-a</find>
-      <find>btn-ap</find>
-      <find>btn-app</find>
-      <find>btn-appl</find>
-      <find>btn-apple</find>
-      <find>box-nav justify-between</find>
       <find>brand-menu</find>
       <find>btn brand brand-filter has-brand</find>
       <find>nav-btn tabacco nobgimagewhite</find>
@@ -99,6 +55,21 @@
       <find>кальяны</find>
       <find>checkModalContentContent__dnk</find>
       <find>checkModalContentHeaderCreateOrderBtn__dnk</find>
+      <find>OrderG</find>
+      <find>checkModalGuestcharacterItem__dnk</find>
+      <find>checkModalGuestCharacterItem__dnk</find>
+      <find>checkModal__dnk</find>
+      <find>hookahDetailModal</find>
+      <find>hookahDetailModalHeaderTitle</find>
+      <find>испортить</find>
+      <find>headerPanel__dnk</find>
+      <find>hookahDetail_bgcolorGreen</find>
+      <find>roomsPage__dnk</find>
+      <find>mapPageMapRoom__dnk</find>
+      <find>mapPageMapRoomHeaderLeft__dnk</find>
+      <find>mapPageMapRoomContent__dnk</find>
+      <find>mapPageMapRoomTable__dnk</find>
+      <find>mapPageMapRoomHeader__dnk</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -127,7 +98,12 @@
         <option value="$PROJECT_DIR$/index-select-6.html" />
         <option value="$PROJECT_DIR$/check-division-1.html" />
         <option value="$PROJECT_DIR$/check-division-2.html" />
+        <option value="$PROJECT_DIR$/guest-selection-2.html" />
         <option value="$PROJECT_DIR$/guest-selection-1.html" />
+        <option value="$PROJECT_DIR$/hookah-details.html" />
+        <option value="$PROJECT_DIR$/hookah-details-1.html" />
+        <option value="$PROJECT_DIR$/hookah-details-2.html" />
+        <option value="$PROJECT_DIR$/map-designer.html" />
         <option value="$PROJECT_DIR$/css/main.css" />
       </list>
     </option>
@@ -161,7 +137,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -191,12 +166,13 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="editing.templates" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Hookas/dev-site" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Crockid/pages" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -299,7 +275,9 @@
       <workItem from="1547618789926" duration="1023000" />
       <workItem from="1547620563104" duration="7487000" />
       <workItem from="1547652731135" duration="16487000" />
-      <workItem from="1547713621973" duration="4789000" />
+      <workItem from="1547713621973" duration="11780000" />
+      <workItem from="1547727543602" duration="8242000" />
+      <workItem from="1547790150041" duration="20341000" />
     </task>
     <task id="LOCAL-00001" summary="добавил индексные Серого">
       <created>1547563111976</created>
@@ -308,20 +286,28 @@
       <option name="project" value="LOCAL" />
       <updated>1547563111976</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="четверг">
+      <created>1547720546702</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1547720546702</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="113326000" />
+    <option name="totallyTimeSpent" value="148900000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1416" height="1026" extended-state="6" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25737464" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21460177" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -333,7 +319,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -345,54 +330,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="добавил индексные Серого" />
-    <option name="LAST_COMMIT_MESSAGE" value="добавил индексные Серого" />
+    <MESSAGE value="четверг" />
+    <option name="LAST_COMMIT_MESSAGE" value="четверг" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/img/bird-right_gray.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/bird-down.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-31049">
-          <caret line="119" column="23" lean-forward="true" selection-start-line="119" selection-start-column="23" selection-end-line="119" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/clock-white.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rooms-page.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1020">
-          <caret line="60" column="37" lean-forward="false" selection-start-line="60" selection-start-column="37" selection-end-line="60" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/rete.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/division-page-select-table.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-204">
-          <caret line="6" column="37" lean-forward="false" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/left-arrow-white.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -610,9 +555,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3179">
           <caret line="196" column="85" lean-forward="false" selection-start-line="196" selection-start-column="77" selection-end-line="196" selection-end-column="85" />
-          <folding>
-            <element signature="e#7766#8532#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -625,15 +567,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3638">
           <caret line="214" column="68" lean-forward="false" selection-start-line="214" selection-start-column="56" selection-end-line="214" selection-end-column="92" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/guest-selection-1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="183" column="94" lean-forward="true" selection-start-line="183" selection-start-column="44" selection-end-line="183" selection-end-column="98" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -647,10 +580,70 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/guest-selection-2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guest-selection-1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3468">
+          <caret line="204" column="94" lean-forward="false" selection-start-line="204" selection-start-column="94" selection-end-line="204" selection-end-column="94" />
+          <folding>
+            <element signature="e#9789#9796#1" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/edit-white.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hookah-details.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="448" column="56" lean-forward="false" selection-start-line="448" selection-start-column="36" selection-end-line="448" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hookah-details-1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="462" column="0" lean-forward="false" selection-start-line="462" selection-start-column="0" selection-end-line="462" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hookah-details-2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="461" column="56" lean-forward="true" selection-start-line="461" selection-start-column="36" selection-end-line="461" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/trash-grey.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/map-designer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="537">
+          <caret line="123" column="67" lean-forward="false" selection-start-line="123" selection-start-column="67" selection-end-line="123" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="673">
-          <caret line="2926" column="27" lean-forward="false" selection-start-line="2926" selection-start-column="27" selection-end-line="2926" selection-end-column="27" />
+        <state relative-caret-position="459">
+          <caret line="4125" column="29" lean-forward="false" selection-start-line="4125" selection-start-column="29" selection-end-line="4125" selection-end-column="29" />
           <folding />
         </state>
       </provider>
