@@ -120,3 +120,15 @@ if($('.js-info-list').length){
 		
 	});
 }
+
+
+$(document).ready(function(){
+	$('.btns-wrap>div').on('click', function(){
+		$(this).siblings('div').removeClass('active');
+		$(this).addClass('active');
+	});
+
+	$('.btn.search').on('click', function(){
+		$(this).next('.search_wrap').toggleClass('active');
+	});
+});
